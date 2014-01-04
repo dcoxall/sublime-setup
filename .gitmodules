@@ -13,3 +13,6 @@
 [submodule "packages/MarkdownEditing"]
 	path = packages/MarkdownEditing
 	url = git@github.com:SublimeText-Markdown/MarkdownEditing.git
+[submodule "packages/sass-textmate-bundle"]
+	path = packages/sass-textmate-bundle
+	url = git@github.com:nathos/sass-textmate-bundle.git
