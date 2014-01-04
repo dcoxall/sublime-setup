@@ -10,3 +10,6 @@
 [submodule "packages/SublimePuppet"]
 	path = packages/SublimePuppet
 	url = git@github.com:russCloak/SublimePuppet.git
+[submodule "packages/MarkdownEditing"]
+	path = packages/MarkdownEditing
+	url = git@github.com:SublimeText-Markdown/MarkdownEditing.git
