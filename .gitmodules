@@ -19,3 +19,6 @@
 [submodule "packages/CoffeeScript"]
 	path = packages/CoffeeScript
 	url = https://github.com/Xavura/CoffeeScript-Sublime-Plugin.git
+[submodule "packages/CTags"]
+	path = packages/CTags
+	url = git@github.com:SublimeText/CTags.git
