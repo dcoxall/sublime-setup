@@ -25,5 +25,11 @@
 	"font_options":
 	[
 		"subpixel_antialias"
+	],
+	"file_exclude_patterns":
+	[
+		".tags",
+		".tags_sorted_by_file",
+		".gemtags"
 	]
 }
