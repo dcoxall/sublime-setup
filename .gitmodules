@@ -1,3 +1,6 @@
 [submodule "packages/Theme - Soda"]
 	path = packages/Theme - Soda
 	url = https://github.com/buymeasoda/soda-theme/
+[submodule "packages/daylerees-themes"]
+	path = packages/daylerees-themes
+	url = https://github.com/daylerees/colour-schemes.git
