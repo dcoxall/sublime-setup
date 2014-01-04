@@ -4,3 +4,6 @@
 [submodule "packages/daylerees-themes"]
 	path = packages/daylerees-themes
 	url = https://github.com/daylerees/colour-schemes.git
+[submodule "packages/SideBarEnhancements"]
+	path = packages/SideBarEnhancements
+	url = git@github.com:titoBouzout/SideBarEnhancements.git
