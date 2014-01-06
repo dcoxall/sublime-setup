@@ -25,3 +25,6 @@
 [submodule "packages/sublime_alignment"]
 	path = packages/sublime_alignment
 	url = git@github.com:wbond/sublime_alignment.git
+[submodule "packages/HAML"]
+	path = packages/HAML
+	url = git@github.com:phuibonhoa/handcrafted-haml-textmate-bundle.git
