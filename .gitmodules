@@ -22,3 +22,6 @@
 [submodule "packages/CTags"]
 	path = packages/CTags
 	url = git@github.com:SublimeText/CTags.git
+[submodule "packages/sublime_alignment"]
+	path = packages/sublime_alignment
+	url = git@github.com:wbond/sublime_alignment.git
