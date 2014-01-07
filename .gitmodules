@@ -28,3 +28,6 @@
 [submodule "packages/HAML"]
 	path = packages/HAML
 	url = git@github.com:phuibonhoa/handcrafted-haml-textmate-bundle.git
+[submodule "packages/Behat"]
+	path = packages/Behat
+	url = git@github.com:omissis/sublime-behat-syntax.git
