@@ -1,35 +1,36 @@
 {
-	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/daylerees-themes/Earthsong.tmTheme",
-	"drag_text": false,
-	"ensure_newline_at_eof_on_save": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"rulers":
-	[
-		70
-	],
-	"shift_tab_unindent": true,
-	"tab_size": 2,
-	"theme": "Soda Light.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
 	"font_face": "Source Code Pro",
-	"font_size": 15,
-	"remember_open_files": false,
-	"show_tab_close_buttons": false,
-	"draw_white_space": "selection",
+	"font_size": 16,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+
+	"highlight_line": true,
+
+	"fade_fold_buttons": false,
+	"bold_folder_labels": true,
+	"tree_animation_enabled": false,
+	"highlight_modified_tabs": true,
+
+	"word_wrap": true,
+	"wrap_width": 80,
+	"rulers": [80],
+
+	"theme": "Spacegray.sublime-theme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"detect_indentation": false,
+
+	"caret_style": "solid",
+
 	"trim_trailing_white_space_on_save": true,
-	"font_options":
-	[
-		"subpixel_antialias"
-	],
-	"file_exclude_patterns":
-	[
-		".tags",
-		".tags_sorted_by_file",
-		".gemtags"
-	]
+	"ensure_newline_at_eof_on_save": true,
+
+	"shift_tab_unindent": true,
+
+	"drag_text": false,
+
+	"hot_exit": false,
+	"remember_open_files": false
 }

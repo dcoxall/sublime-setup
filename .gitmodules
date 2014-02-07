@@ -18,7 +18,7 @@
 	url = git@github.com:nathos/sass-textmate-bundle.git
 [submodule "packages/CoffeeScript"]
 	path = packages/CoffeeScript
-	url = https://github.com/Xavura/CoffeeScript-Sublime-Plugin.git
+	url = git@github.com:Xavura/CoffeeScript-Sublime-Plugin.git
 [submodule "packages/CTags"]
 	path = packages/CTags
 	url = git@github.com:SublimeText/CTags.git
@@ -31,3 +31,15 @@
 [submodule "packages/Behat"]
 	path = packages/Behat
 	url = git@github.com:omissis/sublime-behat-syntax.git
+[submodule "packages/NGINX"]
+	path = packages/NGINX
+	url = git@github.com:kvs/ST2Nginx.git
+[submodule "packages/Puppet"]
+	path = packages/Puppet
+	url = git@github.com:russCloak/SublimePuppet.git
+[submodule "packages/SASS"]
+	path = packages/SASS
+	url = git@github.com:nathos/sass-textmate-bundle.git
+[submodule "packages/Theme - Spacegray"]
+	path = packages/Theme - Spacegray
+	url = git@github.com:kkga/spacegray.git
