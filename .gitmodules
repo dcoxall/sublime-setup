@@ -43,3 +43,6 @@
 [submodule "packages/Theme - Spacegray"]
 	path = packages/Theme - Spacegray
 	url = git@github.com:kkga/spacegray.git
+[submodule "packages/EJS"]
+	path = packages/EJS
+	url = git@github.com:samholmes/EJS.tmLanguage.git
