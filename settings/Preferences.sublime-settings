@@ -11,7 +11,7 @@
 	"tree_animation_enabled": false,
 	"highlight_modified_tabs": true,
 
-	"word_wrap": true,
+	"word_wrap": false,
 	"wrap_width": 80,
 	"rulers": [80],
 
